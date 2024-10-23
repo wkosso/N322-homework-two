@@ -1,50 +1,16 @@
-# Welcome to your Expo app 👋
+# Homework-two
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 10/23/24
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+# How To Run app
+This is a food photopgrapher application,it is designed to showcase the beauty and artistry of culinary creations. Whether you’re a chef, restaurant owner, or food enthusiast, the site brings your dishes to life through captivating visuals.  
+ 
+ To set up and run the Food Photographer application, first create a project folder and navigate to it in your terminal; then start a new React Native project by running npx create-expo-app@latest, confirming with Y, naming your app, and allowing it to build; after opening the project in Visual Studio Code, reset the project by executing npm run reset-project to remove unnecessary files; review the project structure, which includes the app/ directory for your application code and assets/ for images and fonts; then start the application with npm run start to generate a QR code that can be scanned using Expo Go on your device, and finally, run the Android Emulator by pressing A in the terminal while ensuring you have Clerk installed via npm install @clerk/clerk-expo for authentication features like sign-up and sign-in.
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+ # Web Link: 
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
